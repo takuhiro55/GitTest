@@ -8,6 +8,7 @@ public class Main {
         System.out.println(calc.sum());
         System.out.println(calc.sum());
         System.out.println(calc.sum());
+        System.out.println("Good bye");
     }
 
 }
